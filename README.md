@@ -17,7 +17,7 @@
 
 
 # Welcome :)
-<a href="https://devchallenge.now.sh/"> DevChallenge</a> allow you to improve your skills!
+<a href="https://devchallenge.now.sh/"> DevChallenge</a> allows me to improve my skills!
 
 # Challenge
 The challenge was to build a landing page about a website that create graphics.<br><br>
