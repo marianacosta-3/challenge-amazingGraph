@@ -10,9 +10,7 @@
     Landing page to create amazing graphics
        <br />
     <br />
-    <a href="https://github.com/Lorenalgm/AmazingGraph">Challenge</a>
-    ·
-    <a href="https://www.linkedin.com/in/lorenagmontes/">Contact</a>
+  <a href="https://github.com/Lorenalgm/AmazingGraph">Challenge</a>
   </p>
 </p>
 
@@ -58,4 +56,4 @@ Imagens disponíveis na pasta `./assets`<br>
 # Font family:
 - Roboto
 
-Designed and created by  <a href="https://github.com/Lorenalgm">Lorena</a> :)
+Challenge created by  <a href="https://github.com/Lorenalgm">Lorena</a> :)
